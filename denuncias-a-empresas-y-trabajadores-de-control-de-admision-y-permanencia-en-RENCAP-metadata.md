@@ -123,49 +123,49 @@ Recursos disponibles
 [Decreto Reglamentario Nº 1824/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160784/norma.htm)
 [Resolución MJyDH Nº 1024/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215997/norma.htm)
 
--   **Provincia de Buenos Aires
+-   **Provincia de Buenos Aires**
 
 Ley de adhesión N° 13.964 (Publicada B.O. 10/02/2009)
 Decreto reglamentario N° 1096/09
 
--	**Provincia de Catamarca
+-	**Provincia de Catamarca**
 
 Ley de adhesión N° 5485 (Publicada B.O. 8/11/2016)
 Resolución que aprueba Convenio: En trámite.
 
--	**Provincia de Chaco
+-	**Provincia de Chaco**
 
 Ley de adhesión N° 6709 (Publicada B.O. 12/01/2011)
 Decreto reglamentario N° 1676/2011
 Resolución que aprueba convenio: En trámite.
 
--	**Provincia de Chubut
+-	**Provincia de Chubut**
 
 Ley de adhesión XIX N° 66 (Publicada B.O. 18/07/2014)
 Decreto reglamentario N° 260/2015
 Resolución MJyDH Nº 1826/2015 (Convenio)
 
--	**Provincia de Entre Ríos
+-	**Provincia de Entre Ríos**
 
 Ley de adhesión N° 10.517 (Publicada B.O. 11/10/2017)
 
--	**Provincia de Río Negro
+-	**Provincia de Río Negro**
 
 Ley de adhesión N° 4351 (Publicada B.O. 4/06/2009)
 Decreto reglamentario N° 696/2011 
 Resolución MJyDH Nº 1121/2014 (Convenio)
 
--	**Provincia de Salta
+-	**Provincia de Salta**
 
 Ley de adhesión N° 7649 (Publicada B.O. 28/12/2008)
 Decreto reglamentario N° 1921/2011
 
--	**Provincia de Santa Cruz
+-	**Provincia de Santa Cruz**
 
 Ley de adhesión N° 3095 (Publicada B.O. 22/12/2009)
 Decreto reglamentario N° 3005/2009
 
--	**Provincia de Santa Fe
+-	**Provincia de Santa Fe**
 
 [Ley de adhesión N° 13205](http://www.saij.gob.ar/13205-local-santa-fe-adhesion-ley-nacional-26370-sobre-reglas-habilitacion-personal-realiza-tareas-control-admision-permanencia-espectaculos-publicos-lps0013205-2011-11-03/123456789-0abc-defg-502-3100svorpyel) (Publicado B.O. 20/12/2011)
 [Decreto reglamentario N° 2146/2015](http://www.saij.gob.ar/2146-local-santa-fe-reglamentacion-ley-13205-adhiere-ley-nacional-26370-s20150002146-2015-07-08/123456789-0abc-641-2000-5102svorpced)
