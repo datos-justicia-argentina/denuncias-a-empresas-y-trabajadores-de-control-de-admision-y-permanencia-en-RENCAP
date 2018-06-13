@@ -177,9 +177,9 @@ Decreto reglamentario N° 3005/2009
 Constitución Nacional – Artículos relevantes en materia de espectáculos públicos
 --------------------------------------------------------------------------------
 
-Artículo 1º.- La Nación Argentina adopta para su gobierno la forma representativa republicana federal, según la establece la presente Constitución.
+Artículo 1.- La Nación Argentina adopta para su gobierno la forma representativa republicana federal, según la establece la presente Constitución.
 
-Artículo 5º.- Cada provincia dictará para sí una Constitución bajo el sistema representativo republicano, de acuerdo con los principios, declaraciones y garantías de la Constitución Nacional; y que asegure su administración de justicia, su régimen municipal, y la educación primaria. Bajo de estas condiciones el Gobierno federal, garante a cada provincia el goce y ejercicio de sus instituciones.
+Artículo 5.- Cada provincia dictará para sí una Constitución bajo el sistema representativo republicano, de acuerdo con los principios, declaraciones y garantías de la Constitución Nacional; y que asegure su administración de justicia, su régimen municipal, y la educación primaria. Bajo de estas condiciones el Gobierno federal, garante a cada provincia el goce y ejercicio de sus instituciones.
 
 Artículo 16.- La Nación Argentina no admite prerrogativas de sangre, ni de nacimiento: no hay en ella fueros personales ni títulos de nobleza. Todos sus habitantes son iguales ante la ley, y admisibles en los empleos sin otra condición que la idoneidad. La igualdad es la base del impuesto y de las cargas públicas.
 
