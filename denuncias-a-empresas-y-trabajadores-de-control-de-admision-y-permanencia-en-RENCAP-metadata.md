@@ -194,5 +194,6 @@ Artículo 124.- Las provincias podrán crear regiones para el desarrollo económ
 
 Artículo 128.- Los gobernadores de provincia son agentes naturales del Gobierno federal para hacer cumplir la Constitución y las leyes de la Nación.
 
-Ley de Seguridad Interior 
+[Ley 24.059 de seguridad interior](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/458/texact.htm)
+
 
