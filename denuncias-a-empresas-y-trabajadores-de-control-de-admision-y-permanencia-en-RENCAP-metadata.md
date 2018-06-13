@@ -167,9 +167,9 @@ Decreto reglamentario N° 3005/2009
 
 -	**Provincia de Santa Fe**
 
-[Ley de adhesión N° 13205](http://www.saij.gob.ar/13205-local-santa-fe-adhesion-ley-nacional-26370-sobre-reglas-habilitacion-personal-realiza-tareas-control-admision-permanencia-espectaculos-publicos-lps0013205-2011-11-03/123456789-0abc-defg-502-3100svorpyel) (Publicado B.O. 20/12/2011)
-[Decreto reglamentario N° 2146/2015](http://www.saij.gob.ar/2146-local-santa-fe-reglamentacion-ley-13205-adhiere-ley-nacional-26370-s20150002146-2015-07-08/123456789-0abc-641-2000-5102svorpced)
-[Resolución MJyDH Nº 974/2017 (Convenio)](http://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304616)
+[Ley de adhesión N° 13205](http://www.saij.gob.ar/13205-local-santa-fe-adhesion-ley-nacional-26370-sobre-reglas-habilitacion-personal-realiza-tareas-control-admision-permanencia-espectaculos-publicos-lps0013205-2011-11-03/123456789-0abc-defg-502-3100svorpyel) (Publicado B.O. 20/12/2011) 
+[Decreto reglamentario N° 2146/2015](http://www.saij.gob.ar/2146-local-santa-fe-reglamentacion-ley-13205-adhiere-ley-nacional-26370-s20150002146-2015-07-08/123456789-0abc-641-2000-5102svorpced) 
+[Resolución MJyDH Nº 974/2017 (Convenio)](http://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304616) 
 
 
 Constitución Nacional – Artículos relevantes en materia de espectáculos públicos
