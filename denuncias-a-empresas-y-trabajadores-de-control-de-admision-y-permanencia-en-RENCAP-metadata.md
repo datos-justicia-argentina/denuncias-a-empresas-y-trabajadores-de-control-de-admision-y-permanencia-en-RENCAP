@@ -123,7 +123,7 @@ Recursos disponibles
 [Decreto Reglamentario Nº 1824/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160784/norma.htm)
 [Resolución MJyDH Nº 1024/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215997/norma.htm)
 
--	**Provincia de Buenos Aires
+**Provincia de Buenos Aires
 
 Ley de adhesión N° 13.964 (Publicada B.O. 10/02/2009)
 Decreto reglamentario N° 1096/09
