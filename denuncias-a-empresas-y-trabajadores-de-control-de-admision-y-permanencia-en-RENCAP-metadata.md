@@ -98,13 +98,13 @@ Recursos disponibles
 
 -	**denuncia_estado (string):** indica si la denuncia fue derivada a la jurisdicción competente o si fue desestimada por no corresponder la derivación. Entre los posibles motivos de desestimación podemos encontrar:
 
-    -	  La denuncia pertenece a un ámbito ajeno a la competencia del RENCAP
-    -	  El denunciante solicita que la denuncia sea desestimada
-    -	  El hecho denunciado no implica infracción alguna a la normativa
-    -	  Hecho extemporáneo
-    -	  Inconsistencia en los datos brindados por el denunciante
-    -	  Errores de carga
-    -	  Generación de registro duplicado
+    -	La denuncia pertenece a un ámbito ajeno a la competencia del RENCAP
+    -	El denunciante solicita que la denuncia sea desestimada
+    -	El hecho denunciado no implica infracción alguna a la normativa
+    -	Hecho extemporáneo
+    -	Inconsistencia en los datos brindados por el denunciante
+    -	Errores de carga
+    -	Generación de registro duplicado
 
 
 -	**denuncia_fecha_cambio_estado (date):** indica la fecha en que la denuncia fue derivada o desestimada
@@ -123,50 +123,50 @@ Recursos disponibles
 [Decreto Reglamentario Nº 1824/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160784/norma.htm)
 [Resolución MJyDH Nº 1024/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215997/norma.htm)
 
-Provincia de Buenos Aires
--------------------------
+###Provincia de Buenos Aires
+
 Ley de adhesión N° 13.964 (Publicada B.O. 10/02/2009)
 Decreto reglamentario N° 1096/09
 
-Provincia de Catamarca
-----------------------
+###Provincia de Catamarca
+
 Ley de adhesión N° 5485 (Publicada B.O. 8/11/2016)
 Resolución que aprueba Convenio: En trámite.
 
-Provincia de Chaco
-------------------
+###Provincia de Chaco
+
 Ley de adhesión N° 6709 (Publicada B.O. 12/01/2011)
 Decreto reglamentario N° 1676/2011
 Resolución que aprueba convenio: En trámite.
 
-Provincia de Chubut
--------------------
+###Provincia de Chubut
+
 Ley de adhesión XIX N° 66 (Publicada B.O. 18/07/2014)
 Decreto reglamentario N° 260/2015
 Resolución MJyDH Nº 1826/2015 (Convenio)
 
-Provincia de Entre Ríos
------------------------
+###Provincia de Entre Ríos
+
 Ley de adhesión N° 10.517 (Publicada B.O. 11/10/2017)
 
-Provincia de Río Negro
-----------------------
+###Provincia de Río Negro
+
 Ley de adhesión N° 4351 (Publicada B.O. 4/06/2009)
 Decreto reglamentario N° 696/2011 
 Resolución MJyDH Nº 1121/2014 (Convenio)
 
-Provincia de Salta
-------------------
+###Provincia de Salta
+
 Ley de adhesión N° 7649 (Publicada B.O. 28/12/2008)
 Decreto reglamentario N° 1921/2011
 
-Provincia de Santa Cruz
------------------------
+###Provincia de Santa Cruz
+
 Ley de adhesión N° 3095 (Publicada B.O. 22/12/2009)
 Decreto reglamentario N° 3005/2009
 
-Provincia de Santa Fe
----------------------
+###Provincia de Santa Fe
+
 Ley de adhesión N° 13205 (Publicado B.O. 20/12/2011)
 Decreto reglamentario N° 2146/2015
 Resolución MJyDH Nº 974/2017 (Convenio)
