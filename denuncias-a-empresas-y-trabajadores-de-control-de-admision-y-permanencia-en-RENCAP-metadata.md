@@ -171,7 +171,7 @@ Decreto reglamentario N° 3005/2009
 
 [Decreto reglamentario N° 2146/2015](http://www.saij.gob.ar/2146-local-santa-fe-reglamentacion-ley-13205-adhiere-ley-nacional-26370-s20150002146-2015-07-08/123456789-0abc-641-2000-5102svorpced)
 
-[Resolución MJyDH Nº 974/2017 (Convenio)](http://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304616)
+[Resolución MJyDH Nº 974/2017](http://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304616) (Convenio)
 
 
 Constitución Nacional – Artículos relevantes en materia de espectáculos públicos
