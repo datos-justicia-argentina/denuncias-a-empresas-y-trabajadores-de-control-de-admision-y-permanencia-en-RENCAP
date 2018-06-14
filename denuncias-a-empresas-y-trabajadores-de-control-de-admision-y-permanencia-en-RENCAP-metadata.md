@@ -139,7 +139,7 @@ Recursos disponibles
 
 ### Provincia de Chaco
 
--	**[Ley de adhesión N° 6709](http://www.saij.gob.ar/6709-local-chaco-adhesion-ln-26370-control-admision-permanencia-mod-art-29-ley-134-lph0006709-2010-12-15/123456789-0abc-defg-907-6000hvorpyel?q=%28numero-norma%3A6709%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Ley%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n&t=7) (Publicada B.O. 12/01/2011)**
+-	**[Ley de adhesión N° 6709](http://www.saij.gob.ar/6709-local-chaco-adhesion-ln-26370-control-admision-permanencia-mod-art-29-ley-134-lph0006709-2010-12-15/123456789-0abc-defg-907-6000hvorpyel?q=%28numero-norma%3A6709%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Ley%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n&t=7)(Publicada B.O. 12/01/2011)**
 
 -	**Decreto reglamentario N° 1676/2011**
     
