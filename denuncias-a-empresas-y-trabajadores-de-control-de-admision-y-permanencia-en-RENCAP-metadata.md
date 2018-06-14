@@ -119,8 +119,8 @@ Recursos disponibles
 
 ### Notas
 
-[Ley Nacional de Espectáculos Públicos Nº 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm)
-[Decreto Reglamentario Nº 1824/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160784/norma.htm)
+[Ley Nacional de Espectáculos Públicos Nº 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm) - 
+[Decreto Reglamentario Nº 1824/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160784/norma.htm) - 
 [Resolución MJyDH Nº 1024/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215997/norma.htm)
 
 -   **Provincia de Buenos Aires**
