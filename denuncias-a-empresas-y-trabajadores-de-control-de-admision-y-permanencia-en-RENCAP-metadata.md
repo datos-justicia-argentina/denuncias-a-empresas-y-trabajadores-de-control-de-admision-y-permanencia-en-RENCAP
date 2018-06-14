@@ -1,7 +1,7 @@
 Denuncias a empresas y trabajadores de control de admisión y permanencia en RENCAP
 ==================================================================================
 
-Este conjunto de datos corresponde a la información generada por las denuncias recibidas en el Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia (RENCAP), por vía telefónica o formulario web, sobre actos de discriminación, violencia o incumplimiento de las disposiciones vigentes en que incurren los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos, radicadas por los damnificados, allegados y/o testigos. Las denuncias se reciben en la línea gratuita 0800-222-0080 o en la página http://www.jus.gob.ar/rencap.aspx/servicios/denuncias/dar-de-alta.aspx.
+En este conjunto de datos se detalla la información generada por las denuncias recibidas en el Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia (RENCAP), por vía telefónica o formulario web, sobre actos de discriminación, violencia o incumplimiento de las disposiciones vigentes en que incurren los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos, radicadas por los damnificados, allegados y/o testigos. Las denuncias se reciben en la línea gratuita 0800-222-0080 o en la página http://www.jus.gob.ar/rencap.aspx/servicios/denuncias/dar-de-alta.aspx.
 
 El RENCAP es un organismo de segundo orden, no realiza procedimientos de investigación ni aplica sanciones en relación a estas denuncias. Su función en relación a las mismas se limita a canalizarlas a las autoridades provinciales o de la Ciudad Autónoma de Buenos Aires -según corresponda su competencia- para que éstas le den el tratamiento que estimen corresponder en función de la legislación allí vigente.
 La información aportada por el denunciante es confidencial y es tratada de acuerdo a la [Ley N° 25.326 de Protección de Datos Personales](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm). Al efectuar la denuncia, el denunciante declara conocer y aceptar el procedimiento y los alcances que tendrá la misma.
@@ -16,7 +16,7 @@ Características
 
 -	**Fecha de Primera Publicación:** 30/06/2018
 
--	**Tags o Etiquetas:** discriminación, violencias, registros, patovicas, espectáculos, admisiones, denuncias, esventos, permanencia
+-	**Tags o Etiquetas:** discriminación, violencias, registros, patovicas, espectáculos, admisiones, denuncias, eventos, permanencia
 
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia
 
@@ -35,7 +35,7 @@ Recursos disponibles
 
 -	**Nombre del archivo:** denuncias-rencap-AAAA-MM-DD.csv
 
--	**Descripción del contenido:** : Información generada por las denuncias recibidas sobre actos de discriminación, violencia y/o incumplimiento de las disposiciones vigentes, en que incurran los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos.
+-	**Descripción del contenido:** : información generada por las denuncias recibidas sobre actos de discriminación, violencia y/o incumplimiento de las disposiciones vigentes, en que incurran los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos.
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
