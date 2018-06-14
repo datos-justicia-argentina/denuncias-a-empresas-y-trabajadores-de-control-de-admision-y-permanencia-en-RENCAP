@@ -125,9 +125,9 @@ Recursos disponibles
 
 ##[Resolución MJyDH Nº 1024/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215997/norma.htm)
 
--   **Provincia de Buenos Aires**
+###Provincia de Buenos Aires
 
-    -	[Ley de adhesión N° 13.964](http://www.saij.gob.ar/13964-local-buenos-aires-adhesion-provincia-ley-nacional-26370-reglas-habilitacion-personal-realiza-tareas-control-admision-permanencia-publico-eventos-espectaculos-publicos-lpb0013964-2008-12-23/123456789-0abc-defg-469-3100bvorpyel?q=%28numero-norma%3A13964%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/Buenos%20Aires&t=1) (Publicada B.O. 10/02/2009)
+-	**[Ley de adhesión N° 13.964](http://www.saij.gob.ar/13964-local-buenos-aires-adhesion-provincia-ley-nacional-26370-reglas-habilitacion-personal-realiza-tareas-control-admision-permanencia-publico-eventos-espectaculos-publicos-lpb0013964-2008-12-23/123456789-0abc-defg-469-3100bvorpyel?q=%28numero-norma%3A13964%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/Buenos%20Aires&t=1) (Publicada B.O. 10/02/2009)**
 	
     -	Decreto reglamentario N° 1096/09
 
