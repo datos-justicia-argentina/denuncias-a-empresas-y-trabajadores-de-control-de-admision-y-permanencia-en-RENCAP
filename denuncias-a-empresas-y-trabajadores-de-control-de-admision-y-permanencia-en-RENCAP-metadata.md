@@ -157,7 +157,7 @@ Resolución MJyDH Nº 1121/2014 (Convenio)
 
 -	**Provincia de Salta**
 
-Ley de adhesión N° 7649 (Publicada B.O. 28/12/2008)
+[Ley de adhesión N° 7649](http://www.saij.gob.ar/7649-local-salta-adhesion-ley-nacional-26370-espectaculos-publicos-lpa0007649-2010-11-30/123456789-0abc-defg-946-7000avorpyel?q=%28numero-norma%3A7649%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Ley%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/Salta&t=1) (Publicada B.O. 28/12/2008)
 Decreto reglamentario N° 1921/2011
 
 -	**Provincia de Santa Cruz**
