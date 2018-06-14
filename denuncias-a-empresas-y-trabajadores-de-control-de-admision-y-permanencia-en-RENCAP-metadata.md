@@ -162,7 +162,7 @@ Decreto reglamentario N° 1921/2011
 
 -	**Provincia de Santa Cruz**
 
-Ley de adhesión N° 3095 (Publicada B.O. 22/12/2009)
+[Ley de adhesión N° 3095](http://www.saij.gob.ar/3095-local-santa-cruz-adhesion-ley-nacional-26370-reglas-habilitacion-personal-realiza-tareas-control-admision-eventos-espectaculos-publicos-lpz0003095-2009-11-26/123456789-0abc-defg-590-3000zvorpyel?q=%28numero-norma%3A3095%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Ley%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/Santa%20Cruz&t=1) (Publicada B.O. 22/12/2009)
 Decreto reglamentario N° 3005/2009
 
 -	**Provincia de Santa Fe**
