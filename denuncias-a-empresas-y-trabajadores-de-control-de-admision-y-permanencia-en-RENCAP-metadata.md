@@ -126,7 +126,6 @@ Recursos disponibles
 -   **Provincia de Buenos Aires**
 
 [Ley de adhesión N° 13.964](http://www.saij.gob.ar/13964-local-buenos-aires-adhesion-provincia-ley-nacional-26370-reglas-habilitacion-personal-realiza-tareas-control-admision-permanencia-publico-eventos-espectaculos-publicos-lpb0013964-2008-12-23/123456789-0abc-defg-469-3100bvorpyel?q=%28numero-norma%3A13964%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/Buenos%20Aires&t=1) (Publicada B.O. 10/02/2009)
-
 Decreto reglamentario N° 1096/09
 
 -	**Provincia de Catamarca**
@@ -153,7 +152,7 @@ Resolución MJyDH Nº 1826/2015 (Convenio)
 -	**Provincia de Río Negro**
 
 [Ley de adhesión N° 4351](http://www.saij.gob.ar/4351-local-rio-negro-adhiere-ley-nacional-26370-establece-reglas-habilitacion-personal-control-admision-permanencia-publico-eventos-espectaculos-publicos-lpr2004351-2009-05-15/123456789-0abc-defg-153-4002rvorpyel?q=%28numero-norma%3A4351%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/R%EDo%20Negro&t=1) (Publicada B.O. 4/06/2009)
-Decreto reglamentario N° 696/2011 
+Decreto reglamentario N° 696/2011
 Resolución MJyDH Nº 1121/2014 (Convenio)
 
 
