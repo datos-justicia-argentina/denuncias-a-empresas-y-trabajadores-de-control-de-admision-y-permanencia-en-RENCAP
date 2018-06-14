@@ -147,7 +147,7 @@ Recursos disponibles
 
 ### Provincia de Chubut
 
--	**Ley de adhesión XIX N° 66 (Publicada B.O. 18/07/2014)**
+-	**[Ley de adhesión XIX N° 66](http://www.legischubut2.gov.ar/digesto/lxl/XIX-66.html) (Publicada B.O. 18/07/2014)**
     
 -	**Decreto reglamentario N° 260/2015**
 
