@@ -139,10 +139,6 @@ Resolución que aprueba Convenio: En trámite.
 Decreto reglamentario N° 1676/2011
 Resolución que aprueba convenio: En trámite.
 
--	**Provincia de Chaco**
-
-[Ley de adhesión N° 6709](http://www.saij.gob.ar/6709-local-chaco-adhesion-ln-26370-control-admision-permanencia-mod-art-29-ley-134-lph0006709-2010-12-15/123456789-0abc-defg-907-6000hvorpyel?q=%28numero-norma%3A6709%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Ley%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n&t=7)
-
 -	**Provincia de Chubut**
 
 Ley de adhesión XIX N° 66 (Publicada B.O. 18/07/2014)
@@ -155,9 +151,11 @@ Resolución MJyDH Nº 1826/2015 (Convenio)
 
 -	**Provincia de Río Negro**
 
-[Ley de adhesión N° 4351] (http://www.saij.gob.ar/4351-local-rio-negro-adhiere-ley-nacional-26370-establece-reglas-habilitacion-personal-control-admision-permanencia-publico-eventos-espectaculos-publicos-lpr2004351-2009-05-15/123456789-0abc-defg-153-4002rvorpyel?q=%28numero-norma%3A4351%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/R%EDo%20Negro&t=1) (Publicada B.O. 4/06/2009)
+[Ley de adhesión N° 4351](http://www.saij.gob.ar/4351-local-rio-negro-adhiere-ley-nacional-26370-establece-reglas-habilitacion-personal-control-admision-permanencia-publico-eventos-espectaculos-publicos-lpr2004351-2009-05-15/123456789-0abc-defg-153-4002rvorpyel?q=%28numero-norma%3A4351%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/R%EDo%20Negro&t=1) (Publicada B.O. 4/06/2009)
 Decreto reglamentario N° 696/2011 
 Resolución MJyDH Nº 1121/2014 (Convenio)
+
+
 
 -	**Provincia de Salta**
 
