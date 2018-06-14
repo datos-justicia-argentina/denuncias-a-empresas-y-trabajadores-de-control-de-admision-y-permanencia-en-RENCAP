@@ -119,7 +119,7 @@ Recursos disponibles
 
 ### Notas
 
-##[Ley Nacional de Espectáculos Públicos Nº 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm)
+-	**[Ley Nacional de Espectáculos Públicos Nº 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm)**
     
 ##[Decreto Reglamentario Nº 1824/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160784/norma.htm)
 
