@@ -35,7 +35,7 @@ Recursos disponibles
 
 -	**Nombre del archivo:** denuncias-rencap-AAAA-MM-DD.csv
 
--	**Descripción del contenido:** : Información generada por las denuncias recibidas sobre actos de discriminación, violencia y/o incumplimiento de las disposiciones vigentes, en que incurran los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos.
+-	**Descripción del contenido:** : información generada por las denuncias recibidas sobre actos de discriminación, violencia y/o incumplimiento de las disposiciones vigentes, en que incurran los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
