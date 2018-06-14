@@ -1,13 +1,13 @@
 Denuncias a empresas y trabajadores de control de admisión y permanencia en RENCAP
 ==================================================================================
 
-En este conjunto de datos se detalla la información generada por las denuncias recibidas en el Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia (RENCAP), por vía telefónica o formulario web, sobre actos de discriminación, violencia o incumplimiento de las disposiciones vigentes en que incurren los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos, radicadas por los damnificados, allegados y/o testigos. Las denuncias se reciben en la línea gratuita 0800-222-0080 o en la página http://www.jus.gob.ar/rencap.aspx/servicios/denuncias/dar-de-alta.aspx.
+Este conjunto de datos corresponde a la información generada por las denuncias recibidas en el Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia (RENCAP), por vía telefónica o formulario web, sobre actos de discriminación, violencia o incumplimiento de las disposiciones vigentes en que incurren los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos, radicadas por los damnificados, allegados y/o testigos. Las denuncias se reciben en la línea gratuita 0800-222-0080 o en la página http://www.jus.gob.ar/rencap.aspx/servicios/denuncias/dar-de-alta.aspx.
 
 El RENCAP es un organismo de segundo orden, no realiza procedimientos de investigación ni aplica sanciones en relación a estas denuncias. Su función en relación a las mismas se limita a canalizarlas a las autoridades provinciales o de la Ciudad Autónoma de Buenos Aires -según corresponda su competencia- para que éstas le den el tratamiento que estimen corresponder en función de la legislación allí vigente.
 La información aportada por el denunciante es confidencial y es tratada de acuerdo a la [Ley N° 25.326 de Protección de Datos Personales](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm). Al efectuar la denuncia, el denunciante declara conocer y aceptar el procedimiento y los alcances que tendrá la misma.
 
 El Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia fue creado por [Decreto N° 1824/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160784/norma.htm). Su función principal es la de operar un banco informático o base de datos que permite recibir, clasificar, incorporar, transmitir y archivar toda la información suministrada por las jurisdicciones provinciales y por la Ciudad Autónoma de Buenos Aires, en la medida que adhieran a la [Ley N° 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140950/norma.htm).
-La [Ley N° 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140950/norma.htm) establece las reglas de habilitación del personal que realiza tareas de control de admisión y permanencia de público en general, y para empleadores cuya actividad consista en la organización y explotación de eventos y espectáculos públicos.
+La Ley [Ley N° 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140950/norma.htm) establece las reglas de habilitación del personal que realiza tareas de control de admisión y permanencia de público en general, y para empleadores cuya actividad consista en la organización y explotación de eventos y espectáculos públicos.
 
 http://datos.jus.gob.ar/dataset/denuncias-a-empresas-y-trabajadores-de-control-de-admision-y-permanencia-en-rencap
 
@@ -16,7 +16,7 @@ Características
 
 -	**Fecha de Primera Publicación:** 30/06/2018
 
--	**Tags o Etiquetas:** discriminación, violencias, registros, patovicas, espectáculos, admisiones, denuncias, eventos, permanencia
+-	**Tags o Etiquetas:** discriminación, violencias, registros, patovicas, espectáculos, admisiones, denuncias, esventos, permanencia
 
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia
 
@@ -35,7 +35,7 @@ Recursos disponibles
 
 -	**Nombre del archivo:** denuncias-rencap-AAAA-MM-DD.csv
 
--	**Descripción del contenido:** : información generada por las denuncias recibidas sobre actos de discriminación, violencia y/o incumplimiento de las disposiciones vigentes, en que incurran los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos.
+-	**Descripción del contenido:** : Información generada por las denuncias recibidas sobre actos de discriminación, violencia y/o incumplimiento de las disposiciones vigentes, en que incurran los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos.
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -125,7 +125,7 @@ Recursos disponibles
 
 -   **Provincia de Buenos Aires**
 
-Ley de adhesión N° 13.964 (Publicada B.O. 10/02/2009)
+[Ley de adhesión N° 13.964](http://www.saij.gob.ar/13964-local-buenos-aires-adhesion-provincia-ley-nacional-26370-reglas-habilitacion-personal-realiza-tareas-control-admision-permanencia-publico-eventos-espectaculos-publicos-lpb0013964-2008-12-23/123456789-0abc-defg-469-3100bvorpyel?q=%28numero-norma%3A13964%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/Buenos%20Aires&t=1) (Publicada B.O. 10/02/2009)
 Decreto reglamentario N° 1096/09
 
 -	**Provincia de Catamarca**
@@ -135,7 +135,7 @@ Resolución que aprueba Convenio: En trámite.
 
 -	**Provincia de Chaco**
 
-Ley de adhesión N° 6709 (Publicada B.O. 12/01/2011)
+[Ley de adhesión N° 6709](http://www.saij.gob.ar/6709-local-chaco-adhesion-ln-26370-control-admision-permanencia-mod-art-29-ley-134-lph0006709-2010-12-15/123456789-0abc-defg-907-6000hvorpyel?q=%28numero-norma%3A6709%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Ley%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n&t=7) (Publicada B.O. 12/01/2011)
 Decreto reglamentario N° 1676/2011
 Resolución que aprueba convenio: En trámite.
 
@@ -147,11 +147,11 @@ Resolución MJyDH Nº 1826/2015 (Convenio)
 
 -	**Provincia de Entre Ríos**
 
-Ley de adhesión N° 10.517 (Publicada B.O. 11/10/2017)
+[Ley de adhesión N° 10.517](http://www.saij.gob.ar/10517-local-entre-rios-adhesion-provincia-entre-rios-ley-nacional-26370-crea-registro-provincial-controladores-lpe0010517-2017-09-12/123456789-0abc-defg-715-0100evorpyel?q=%28numero-norma%3A10517%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/Entre%20R%EDos&t=1) (Publicada B.O. 11/10/2017)
 
 -	**Provincia de Río Negro**
 
-Ley de adhesión N° 4351 (Publicada B.O. 4/06/2009)
+[Ley de adhesión N° 4351] (http://www.saij.gob.ar/4351-local-rio-negro-adhiere-ley-nacional-26370-establece-reglas-habilitacion-personal-control-admision-permanencia-publico-eventos-espectaculos-publicos-lpr2004351-2009-05-15/123456789-0abc-defg-153-4002rvorpyel?q=%28numero-norma%3A4351%20%29&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Local/R%EDo%20Negro&t=1) (Publicada B.O. 4/06/2009)
 Decreto reglamentario N° 696/2011 
 Resolución MJyDH Nº 1121/2014 (Convenio)
 
