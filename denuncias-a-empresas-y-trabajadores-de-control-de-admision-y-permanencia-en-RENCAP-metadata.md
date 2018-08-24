@@ -211,3 +211,5 @@ Artículo 128.- Los gobernadores de provincia son agentes naturales del Gobierno
 
 [Ley 24.059 de seguridad interior](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/458/texact.htm)
 
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 706 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-706-APN-MJ.pdf), del 23 de agosto de 2018.
+
