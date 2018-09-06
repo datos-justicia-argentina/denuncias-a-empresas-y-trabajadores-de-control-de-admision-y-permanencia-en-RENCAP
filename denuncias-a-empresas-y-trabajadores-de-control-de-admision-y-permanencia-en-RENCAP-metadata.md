@@ -116,6 +116,8 @@ Recursos disponibles
 
 -	**denuncia_fecha_hora_carga (date):** indica la fecha-hora en que la denuncia fue ingresada al sistema
 
+-	**hecho_hecho_provincia_indec_id (date):** código de provincia a la cual pertenece el juzgado interviniente, según la codificación de provincia implementada por INDEC
+
 
 ### Notas
 
