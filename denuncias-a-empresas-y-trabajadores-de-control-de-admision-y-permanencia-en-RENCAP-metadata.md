@@ -1,13 +1,13 @@
 Denuncias a empresas y trabajadores de control de admisión y permanencia en RENCAP
 ==================================================================================
 
-Este conjunto de datos corresponde a la información generada por las denuncias recibidas en el Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia (RENCAP), por vía telefónica o formulario web, sobre actos de discriminación, violencia o incumplimiento de las disposiciones vigentes en que incurren los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos, radicadas por los damnificados, allegados y/o testigos. Las denuncias se reciben en la línea gratuita 0800-222-0080 o en la página http://www.jus.gob.ar/rencap.aspx/servicios/denuncias/dar-de-alta.aspx.
+Este conjunto de datos corresponde a la información generada por las denuncias recibidas en el Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia (RENCAP), por vía telefónica o formulario web, sobre actos de discriminación, violencia o incumplimiento de las disposiciones vigentes en que incurren los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos, radicadas por los damnificados, allegados y/o testigos. Las denuncias se reciben en la línea gratuita 0800-222-0080 o en la página http://www.argentina.gob.ar/justicia/rencap ó http://complementos.jus.gov.ar/denuncias/
 
 El RENCAP es un organismo de segundo orden, no realiza procedimientos de investigación ni aplica sanciones en relación a estas denuncias. Su función en relación a las mismas se limita a canalizarlas a las autoridades provinciales o de la Ciudad Autónoma de Buenos Aires -según corresponda su competencia- para que éstas le den el tratamiento que estimen corresponder en función de la legislación allí vigente.
 La información aportada por el denunciante es confidencial y es tratada de acuerdo a la [Ley N° 25.326 de Protección de Datos Personales](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm). Al efectuar la denuncia, el denunciante declara conocer y aceptar el procedimiento y los alcances que tendrá la misma.
 
 El Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia fue creado por [Decreto N° 1824/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/160784/norma.htm). Su función principal es la de operar un banco informático o base de datos que permite recibir, clasificar, incorporar, transmitir y archivar toda la información suministrada por las jurisdicciones provinciales y por la Ciudad Autónoma de Buenos Aires, en la medida que adhieran a la [Ley N° 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140950/norma.htm).
-La Ley [Ley N° 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140950/norma.htm) establece las reglas de habilitación del personal que realiza tareas de control de admisión y permanencia de público en general, y para empleadores cuya actividad consista en la organización y explotación de eventos y espectáculos públicos.
+La [Ley N° 26.370](http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140950/norma.htm) establece las reglas de habilitación del personal que realiza tareas de control de admisión y permanencia de público en general, y para empleadores cuya actividad consista en la organización y explotación de eventos y espectáculos públicos.
 
 http://datos.jus.gob.ar/dataset/denuncias-a-empresas-y-trabajadores-de-control-de-admision-y-permanencia-en-rencap
 
@@ -43,7 +43,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--	**denuncia_numero (entero):** número interno del registración de la denuncia, conforme al orden de ingreso
+-	**denuncia_numero (entero):** número interno de registración de la denuncia, conforme al orden de ingreso
 
 -	**hecho_fecha_hora (date):** fecha y hora en la que el denunciante indica que sucedió el incidente
 
@@ -67,7 +67,7 @@ Recursos disponibles
 
     -   El personal de control no esta identificado
     -   No exhibe nomina de personal de control habilitado
-    -   No exhibe condiciones de adminsión y permanencia
+    -   No exhibe condiciones de admisión y permanencia
     -   Hay mas personas que las permitidas por la habilitación
     -   Presencia de menores
     
@@ -105,7 +105,8 @@ Recursos disponibles
     -	Inconsistencia en los datos brindados por el denunciante
     -	Errores de carga
     -	Generación de registro duplicado
-
+    -	Generado como prueba del sistema
+    -	Falta de datos
 
 -	**denuncia_fecha_cambio_estado (date):** indica la fecha en que la denuncia fue derivada o desestimada
 
