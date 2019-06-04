@@ -31,7 +31,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Denuncias a empresas y trabajadores de control de admisión y permanencia en RENCAP - actualizado al AAAA-MM-DD
+### Denuncias a empresas y trabajadores de control de admisión y permanencia en RENCAP - AAAAMMDD
 
 -	**Nombre del archivo:** denuncias-rencap-AAAA-MM-DD.csv
 
