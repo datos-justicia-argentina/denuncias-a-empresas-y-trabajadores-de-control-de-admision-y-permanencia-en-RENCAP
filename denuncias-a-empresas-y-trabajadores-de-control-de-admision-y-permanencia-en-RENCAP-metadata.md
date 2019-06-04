@@ -33,7 +33,7 @@ Recursos disponibles
 
 ### Denuncias a empresas y trabajadores de control de admisión y permanencia en RENCAP - AAAAMMDD
 
--	**Nombre del archivo:** denuncias-rencap-AAAA-MM-DD.csv
+-	**Nombre del archivo:** denuncias-rencap-AAAAMMDD.csv
 
 -	**Descripción del contenido:** : información generada por las denuncias recibidas sobre actos de discriminación, violencia y/o incumplimiento de las disposiciones vigentes, en que incurran los Controladores de Admisión y Permanencia (CAP) y/o las empresas organizadoras de espectáculos públicos
 
