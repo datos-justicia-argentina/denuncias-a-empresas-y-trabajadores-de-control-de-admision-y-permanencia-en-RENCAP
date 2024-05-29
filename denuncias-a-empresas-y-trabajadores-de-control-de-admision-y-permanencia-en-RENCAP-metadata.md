@@ -18,11 +18,11 @@ Características
 
 -	**Tags o Etiquetas:** discriminación, violencias, registros, patovicas, espectáculos, admisiones, denuncias, esventos, permanencia
 
--	**Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia
+-	**Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia
 
--	**Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia
+-	**Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia
 
--	**Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia
+-	**Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Empresas y Trabajadores de Control de Admisión y Permanencia
 
 -	**Grupo:** Sistema Registral
 
@@ -216,5 +216,5 @@ Artículo 128.- Los gobernadores de provincia son agentes naturales del Gobierno
 
 [Ley 24.059 de seguridad interior](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/458/texact.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 706 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-706-APN-MJ.pdf), del 23 de agosto de 2018.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 706 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2018-706-APN-MJ.pdf), del 23 de agosto de 2018.
 
